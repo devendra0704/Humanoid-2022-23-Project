@@ -108,7 +108,8 @@ The inverse kinematics provide closed-form solutions to finding joint configurat
 
 By using inverse kinematics we find the different joint angles of each servo motor from the position of our robot for the perfect stable motion.
 
-The joint angles was found by using the concepts shown below:
+### The joint angles was found by using the concepts shown below:
+
 ![download](https://github.com/user-attachments/assets/5563bb66-b232-4847-b88b-826bc5d38173)
 
 
